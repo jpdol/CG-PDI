@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1568637821 source:c:\users\joutv\documents\estudos\processamento digital de imagens\triangle-reflection\main.c
+	<windows.h>
+	<GL/gl.h>
+	<GL/glut.h>
+	<stdio.h>
+
+1573421455 source:c:\users\joutv\documents\estudos\processamento digital de imagens\computa«√o gr¡fica\triangle-reflection\main.c
+	<windows.h>
+	<GL/gl.h>
+	<GL/glut.h>
+	<stdio.h>
+
+1575469294 source:c:\users\diego\downloads\cgi-from-joao\triangle-reflection\main.c
+	<windows.h>
+	<GL/gl.h>
+	<GL/glut.h>
+	<stdio.h>
+

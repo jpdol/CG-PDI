@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1568605318 source:c:\users\joutv\documents\estudos\processamento digital de imagens\square-reflection\main.c
+	<windows.h>
+	<GL/gl.h>
+	<GL/glut.h>
+	<stdio.h>
+
+1568637835 source:c:\users\joutv\documents\estudos\processamento digital de imagens\computa«√o gr¡fica\square-reflection\main.c
+	<windows.h>
+	<GL/gl.h>
+	<GL/glut.h>
+	<stdio.h>
+
